@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+using namespace std;
 struct pole {
     int wartosc;
     bool odkrycie;
