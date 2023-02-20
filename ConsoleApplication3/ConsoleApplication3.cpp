@@ -3,7 +3,9 @@
 
 #include <iostream>
 using namespace std;
+
 struct pole {
+public:
     int wartosc;
     bool odkrycie;
 
